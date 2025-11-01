@@ -1,3 +1,14 @@
+plugins {
+
+    id("com.google.gms.google-services") version "4.4.4" apply false
+
+}
+
+//implementation("com.google.firebase:firebase-analytics")
+//implementation(platform("com.google.firebase:firebase-bom:34.5.0"))
+
+
+
 allprojects {
     repositories {
         google()

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482433520213",
+    "project_id": "learning1-d7b69",
+    "storage_bucket": "learning1-d7b69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482433520213:android:9b8663f7eb9a93196a7adc",
+        "android_client_info": {
+          "package_name": "com.example.fireabase_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknlrGL4HWgmMXH6-B8ydXtAP5Qp2HuSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
